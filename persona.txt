@@ -5,3 +5,14 @@ Peran:
 Tujuan:
 Keinginan:
 
+User Persona Konsumen Kantin
+Nama:
+Peran:
+Tujuan:
+Keinginan:
+
+User Persona Pengelola Kantin
+Nama:
+Peran:
+Tujuan:
+Keinginan:
