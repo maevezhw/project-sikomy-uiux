@@ -1,0 +1,12 @@
+User Persona Konsumen Kantin
+Nama: Supriyadi Pramana
+Peran: Dosen S1 Ilmu Komputer
+Tujuan: dapat memesan makanan dengan cepat dan tidak perlu mengantre
+Keinginan: 
+- bisa memesan makanan secara online kemudian ketika pesanan sudah jadi, makanan dapat langsung diambil
+- tidak ingin makan satu meja dengan orang asing
+- bisa memesan 2 makanan dari 2 penjual yang berbeda sekaligus dalam satu waktu dan tidak perlu melakukan transaksi pembayaran sebanyak dua kali
+Kesulitan: 
+- Dikarenakan jadwal mengajar dan jadwal lainnya lumayan padat, sehingga ketika kantin ramai pengunjung, saya perlu mengantre dan hal tersebut dapat menghabiskan waktu  saya juga terkadang membuat jadwal saya yang lain menjadi terganggu
+- ketika ingin membeli 2 makanan dari 2 penjual yang berbeda, perlu mengantre dua kali, sehingga tidak efisien waktu
+- ketika sedang menunggu makanan take away untuk jadi, tidak tersedia kursi yang dapat digunakan untuk menunggu
