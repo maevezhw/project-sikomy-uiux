@@ -1,19 +1,21 @@
-User Persona
 
-Konsumen Kantin
+User Persona Konsumen Kantin
 Nama:
 Peran:
 Tujuan:
 Keinginan:
+Kesulitan:
 
-Konsumen Kantin
+User Persona Konsumen Kantin
 Nama:
 Peran:
 Tujuan:
 Keinginan:
+Kesulitan:
 
-Pengelola Kantin
+User Persona Pengelola Kantin
 Nama:
 Peran:
 Tujuan:
 Keinginan:
+Kesulitan:
