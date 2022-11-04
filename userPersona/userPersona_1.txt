@@ -8,3 +8,4 @@ Keinginan :
   - Dapat melakukan reservasi tempat di kantin dengan melihat denah meja dan jumlah  
     kursi per meja
   - Dapat melihat daftar menu sekaligus memesan makanan ketika membooking meja dan kursi
+  - Dapat membatalkan reservasi kapanpun
