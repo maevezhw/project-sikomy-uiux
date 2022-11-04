@@ -1,9 +1,12 @@
 User Persona Konsumen Kantin
 Nama      : Adriana
+
 Peran     : 
   - Mahasiswa Ilmu Komputer UGM
   - Uang saku per bulan: Rp1.000.0000,-
+
 Tujuan    : Mendapatkan kursi untuk makan di kantin
+
 Keinginan :   
   - Dapat melihat ketersediaan tempat di kantin pada waktu tertentu yang 
     diinginkan
@@ -11,6 +14,8 @@ Keinginan :
     kursi per meja
   - Dapat melihat daftar menu sekaligus memesan makanan ketika membooking meja dan kursi
   - Dapat membatalkan reservasi kapanpun
+  - Ingin mendapatkan makanan dan minuman murah
+
 Kesulitan:
   - Ketersediaan kursi tidak pasti
   - Antri dalam memesan makanan
