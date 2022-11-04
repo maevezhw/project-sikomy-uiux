@@ -107,6 +107,7 @@ Keinginan:
   - kalau banyak orang yang datang, banyak juga item yang dibeli, jangan sampai ada 10 orang yang datang tapi yang dibeli hanya dua item
   - jangan ada pembeli yang hanya nongkrong lama padahal makanannya sudah habis
   - ada pendataan pesanan makanan untuk tiap meja secara digital sehingga tidak perlu repot-repot ke meja pembeli 
+  - ingin mempromosikan media sosial bisnisnya pada layanan booking kursi
 
 Kesulitan:
   - sulit untuk keep on track dengan pesanan pembeli sehingga terkadang ada pesanan yang terlewat
