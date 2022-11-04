@@ -1,20 +1,30 @@
 Peran: Konsumen (diambil dari user persona Adriana dan Supriyadi)
 
+// Merupakan hasil diskusi bersama, tetapi untuk penulisan dilakukan oleh Dyandra dan Nasywa
+
 Goal: 
 - Mendapatkan kursi untuk makan di kantin.
 - Dapat memesan makanan dengan cepat dan tidak perlu mengantre
 
-Keinginan:
-  - Dapat melihat ketersediaan tempat di kantin pada waktu tertentu yang 
-    diinginkan
-  - Dapat melakukan reservasi tempat di kantin dengan melihat denah meja dan jumlah  
+Keinginan1:
+   - Dapat melihat ketersediaan tempat di kantin pada waktu tertentu yang 
+    diinginkan dan melakukan reservasi tempat di kantin dengan melihat denah meja dan jumlah  
     kursi per meja
-  - Tidak ingin makan satu meja dengan orang asing
-  - Dapat membatalkan reservasi kapanpun
-  
-  - Dapat melihat daftar menu dari semua penjual sekaligus memesan makanan ketika membooking meja dan kursi, ketika pesanan sudah jadi, 
-    makanan dapat langsung diambil
+Solusi1:
+    - Menyediakan fitur yang menampilkan ketersediaan meja pada jangka waktu tertentu dan denah meja yang dilengkapi informasi jumlah kursi per meja
+    - Menyediakan fitur untuk mereservasi meja yang tersedia pada waktu yang diinginkan
     
+Keinginan2:
+  - Dapat melihat daftar menu dari semua penjual sekaligus memesan makanan ketika membooking meja, ketika pesanan sudah jadi, 
+    makanan dapat langsung diambil
+Solusi2: 
+  - Menyediakan fitur untuk menampilkan daftar menu dari semua penjual dan fitur pemesanan makanan ketika mereservasi meja
+  - Menyediakan fitur notifikasi apabila makanan sudah siap
+ 
+Keinginan3:
   - Tidak perlu melakukan transaksi pembayaran untuk setiap penjual berbeda.
   - Dapat melakukan pembayaran secara cash dan cashless.
+ Solusi3:
+  - Menyediakan opsi fitur pembayaran cashless(QRIS, Shopeepay, OVO, Gopay, dan Dana) dan cash
+
 
