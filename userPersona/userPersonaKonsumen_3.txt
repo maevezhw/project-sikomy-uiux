@@ -8,16 +8,15 @@ Tujuan:
 - mendapat tempat duduk di komipa
 
 Keinginan:
-- membeli dengan nyaman
-- bisa makan karena kantin komipa satu satunya kantin di mipa dengan tempat duduk
+- bisa makan dengan nyaman karena kantin komipa satu satunya kantin di mipa dengan tempat duduk
 - mendapat makanan dan tempat untuk makan di fmipa di saat yang dibutuhkan
-- melihat kapan orang akan pergi dari kantin
+- melihat kapan orang akan pergi dari kantin dan melihat kapan kursi akan available untuk dibooking
 - meiihat kursi kantin yang kosong
 - melihat menu yang masih tersedia
-- melihat kapan kursi akan available untuk dibooking
 - melihat aturan booking
 - booking hanya satu kursi untuk satu orang
 
 Kesulitan:
 - tidak bisa makan di komipa di saat yang dibutuhkan karena penuh
 - tidak punya saldo di e-wallet
+- memiliki kesabaran yang pendek untuk menunggu makanan datang
