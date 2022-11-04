@@ -1,7 +1,7 @@
 
 User Persona Konsumen Kantin
 Nama:
-Peran:
+Peran: Mahasiswa Geofisika
 Tujuan:
 Keinginan:
 Kesulitan:
@@ -19,3 +19,5 @@ Peran:
 Tujuan:
 Keinginan:
 Kesulitan:
+
+
