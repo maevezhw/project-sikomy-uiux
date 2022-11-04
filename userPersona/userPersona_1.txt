@@ -14,3 +14,4 @@ Keinginan :
 Kesulitan:
   - Ketersediaan kursi tidak pasti
   - Antri dalam memesan makanan
+  - Terganggu dengan konsumen yang telah selesai makan tetapi masih duduk berlama-lama di suatu meja
