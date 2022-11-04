@@ -1,1 +1,39 @@
+___________________________
+   USER PERSONA KONSUMEN
+___________________________
+-------------1-------------
+User Persona Konsumen Kantin
+Nama      : Adriana
+Usia      : 19
 
+Peran     : 
+  - Mahasiswa Ilmu Komputer UGM
+  - Uang saku per bulan: Rp1.000.0000,-
+
+Tujuan    : Mendapatkan kursi untuk makan di kantin
+
+Keinginan :   
+  - Dapat melihat ketersediaan tempat di kantin pada waktu tertentu yang 
+    diinginkan
+  - Dapat melakukan reservasi tempat di kantin dengan melihat denah meja dan jumlah  
+    kursi per meja
+  - Dapat melihat daftar menu sekaligus memesan makanan ketika membooking meja dan kursi
+  - Ingin melakukan pembayaran cashless
+  - Dapat membatalkan reservasi kapanpun
+  - Ingin mendapatkan makanan dan minuman murah
+
+Kesulitan:
+  - Ketersediaan kursi tidak pasti
+  - Antri dalam memesan makanan
+  - Terganggu dengan konsumen yang telah selesai makan tetapi masih duduk berlama-lama di suatu meja
+
+-------------2-------------
+
+-------------3-------------
+
+___________________________
+   USER PERSONA PENGELOLA
+___________________________
+-------------1-------------
+
+-------------2-------------
