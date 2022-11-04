@@ -10,7 +10,7 @@ Tujuan:
 Keinginan:
 - bisa makan dengan nyaman karena kantin komipa satu satunya kantin di mipa dengan tempat duduk
 - mendapat makanan dan tempat untuk makan di fmipa di saat yang dibutuhkan
-- melihat kapan orang akan pergi dari kantin dan melihat kapan kursi akan available untuk dibooking
+- melihat kapan orang akan pergi dari kantin dan melihat kapan kursi akan tersedia untuk dibooking
 - meiihat kursi kantin yang kosong
 - melihat menu yang masih tersedia
 - melihat aturan booking
