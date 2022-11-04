@@ -8,7 +8,7 @@ Tujuan: Mengelola bisnis di kantin dengan mudah tanpa harus terlalu berurusan de
 
 Keinginan: 
 - Setiap konsumen yang duduk di kantin minimal membeli 2 item pada menu
-- Konsumen mempunyai batas waktu untuk duduk
+- Konsumen mempunyai batas waktu untuk datang di meja yang dipesan
 - Ada cara untuk mengingatkan konsumen secara otomatis namun tetap halus
 - Tidak ada pemakaian meja yang berlebihan, misal satu orang duduk pada meja yang didesain untuk 4 orang
 
