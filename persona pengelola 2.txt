@@ -1,13 +1,17 @@
 User Persona Pengelola Kantin
 
 Nama: Andi
-Peran: Pengelola kantin 
+
+Peran: Pengelola Ayam Geprek Mantap di KOMIPA
+
 Tujuan: Mengelola kantin dengan mudah tanpa harus terlalu berurusan dengan masalah teknis
+
 Keinginan: 
-1) Setiap konsumen yang duduk di kantin minimal membeli 2 item pada menu
-2) Konsumen mempunyai batas waktu untuk duduk
-3) Ada cara untuk mengingatkan konsumen secara otomatis namun tetap halus
-4) Tidak ada pemakaian meja yang berlebihan, misal satu orang duduk pada meja yang didesain untuk 4 orang
+- Setiap konsumen yang duduk di kantin minimal membeli 2 item pada menu
+- Konsumen mempunyai batas waktu untuk duduk
+- Ada cara untuk mengingatkan konsumen secara otomatis namun tetap halus
+- Tidak ada pemakaian meja yang berlebihan, misal satu orang duduk pada meja yang didesain untuk 4 orang
+
 Kesulitan: 
-1) Tidak terlalu familiar dengan teknologi
-2) Sering melalukan kesalahan ketika menggunakan software
+- Tidak terlalu familiar dengan teknologi
+- Sering melalukan kesalahan ketika menggunakan software
