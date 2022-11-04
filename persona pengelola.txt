@@ -1,7 +1,11 @@
 User Persona Pengelola Kantin
 
-Nama:
-Peran:
-Tujuan:
-Keinginan:
+Nama: Siti
+Peran: Pengelola Komipa
+Tujuan: Mendapatkan keuntungan sebesar-besarnya
+Keinginan: 
+- kalau banyak orang yang datang, banyak juga item yang dibeli, jangan sampai ada 10 orang yang datang tapi yang dibeli hanya dua item
+- jangan ada pembeli yang hanya nongkrong lama dan hanya membeli satu-dua item 
 Kesulitan:
+- sulit untuk keep on track dengan pesanan pembeli 
+- terkadang ada pesanan yang terlewat
