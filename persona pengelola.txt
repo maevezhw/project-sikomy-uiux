@@ -5,7 +5,7 @@ Peran: Pengelola Mi Ayam Damai di Komipa
 Tujuan: Mendapatkan keuntungan sebesar-besarnya
 Keinginan: 
 - kalau banyak orang yang datang, banyak juga item yang dibeli, jangan sampai ada 10 orang yang datang tapi yang dibeli hanya dua item
-- jangan ada pembeli yang hanya nongkrong lama dan hanya membeli satu-dua item 
+- jangan ada pembeli yang hanya nongkrong lama dan hanya membeli satu-dua item
+- ada pendataan pesanan makanan untuk tiap meja secara digital sehingga tidak perlu repot-repot ke meja pembeli 
 Kesulitan:
-- sulit untuk keep on track dengan pesanan pembeli 
-- terkadang ada pesanan yang terlewat
+- sulit untuk keep on track dengan pesanan pembeli sehingga terkadang ada pesanan yang terlewat
