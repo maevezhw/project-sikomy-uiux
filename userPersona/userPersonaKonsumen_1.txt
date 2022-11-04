@@ -1,5 +1,6 @@
 User Persona Konsumen Kantin
 Nama      : Adriana
+Usia      : 19
 
 Peran     : 
   - Mahasiswa Ilmu Komputer UGM
