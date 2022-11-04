@@ -1,1 +1,8 @@
-
+User Persona Konsumen Kantin
+Nama: Supriyadi Pramana
+Peran: Dosen S1 Ilmu Komputer
+Tujuan: dapat memesan makanan dengan cepat dan tidak perlu mengantre
+Keinginan: 
+- bisa memesan makanan secara online kemudian ketika pesanan sudah jadi, makanan dapat langsung diambil
+Kesulitan: 
+- Dikarenakan jadwal mengajar dan jadwal lainnya lumayan padat, sehingga ketika kantin ramai pengunjung, konsumen perlu mengantre dan hal tersebut dapat menghabiskan waktu dan terkadang membuat jadwal lain menjadi terganggu
