@@ -13,6 +13,7 @@ Keinginan :
   - Dapat melakukan reservasi tempat di kantin dengan melihat denah meja dan jumlah  
     kursi per meja
   - Dapat melihat daftar menu sekaligus memesan makanan ketika membooking meja dan kursi
+  - Ingin melakukan pembayaran cashless
   - Dapat membatalkan reservasi kapanpun
   - Ingin mendapatkan makanan dan minuman murah
 
