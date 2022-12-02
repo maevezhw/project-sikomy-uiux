@@ -3,8 +3,8 @@
 <p align="center">Kami membuat website booking meja dan makanan kantin KOMIPA untuk final project UI/UX dengan nama siKomy.</p>
 
 ## Links
-[Rekaman Diskusi](https://drive.google.com/file/d/1Zoy42ZKTH0fEP31JrpW-Sl9yBokNf9lU/view?usp=sharing)
-[MockUp Design-Figma](https://www.figma.com/file/8KDrX8U6OUjQ02cf39sIRQ/UI%2FUX?node-id=181%3A167&t=CAlRO5ySbQfMCWL3-1)
+-[Rekaman Diskusi](https://drive.google.com/file/d/1Zoy42ZKTH0fEP31JrpW-Sl9yBokNf9lU/view?usp=sharing)
+-[MockUp Design-Figma](https://www.figma.com/file/8KDrX8U6OUjQ02cf39sIRQ/UI%2FUX?node-id=181%3A167&t=CAlRO5ySbQfMCWL3-1)
 
 ## Preview
-![User Journey](/User Journey (3).png "User Journey")
+![User Journey](/userJourney.png "User Journey")
